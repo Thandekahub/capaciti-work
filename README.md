@@ -79,3 +79,4 @@ This is the core. Two TanStack server functions (`createServerFn`) act as type-s
 - Disclaimer — present in sidebar footer and on every AI output
 
 Want me to dive deeper into any specific part — the prompt engineering, the design system tokens, or how the server functions work?
+<img width="1291" height="851" alt="image" src="https://github.com/user-attachments/assets/5fc6a6f2-95eb-4994-b320-c38c02d7cbc9" />
